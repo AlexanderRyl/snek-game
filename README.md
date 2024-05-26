@@ -25,6 +25,6 @@ Welcome to the Snek game! This classic arcade game allows you to control a snake
 
 ## Play the Game
 
-You can play the Snek game by visiting the following link: [Play Snake Game](https://alexanderryl.github.io/snek-game/)
+You can play the Snek game by visiting the following link: [Play Snek Game](https://alexanderryl.github.io/snek-game/)
 
 Enjoy and have fun!
